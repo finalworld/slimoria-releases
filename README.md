@@ -10,13 +10,13 @@
 
 When a game patch is available, press **UPDATE**. Only changed files are downloaded. Your saved characters and edited loose maps are preserved. An existing packaged installation can be selected with **Choose game folder**.
 
-Windows x64. No separate .NET installation required. Launcher 0.1.2 and later check for their own updates, download and verify the new launcher, then restart automatically. If you have launcher 0.1.0 or 0.1.1, download the new launcher once to enable this.
+Windows x64. No separate .NET installation required. Launcher 0.1.4 and later check for their own updates, download and verify the new launcher, then restart automatically. If an older launcher freezes while restarting an update, download the latest launcher once.
 
 [Release notes and downloads](https://github.com/finalworld/slimoria-releases/releases/latest)
 
 ## Co-op preview
 
-Choose your character, create a named game (with an optional password), or join an active game. All players should use the same version. LAN discovery is supported. Internet hosts need reachable UDP 7777; there is no automatic NAT traversal or relay yet. Co-op remains experimental.
+Choose your character, create a named game (with an optional password), or join an active game. All players should use the same version. LAN discovery is supported. EOS automatically handles peer-to-peer connections and relay fallback: no Epic account sign-in or manual router port forwarding is needed. Co-op remains experimental.
 
 ## About this repository
 
