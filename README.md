@@ -10,7 +10,7 @@
 
 When a game patch is available, press **UPDATE**. Only changed files are downloaded. Your saved characters and edited loose maps are preserved. An existing packaged installation can be selected with **Choose game folder**.
 
-Windows x64. No separate .NET installation required. The launcher itself does not yet self-update; download a newer launcher here when needed.
+Windows x64. No separate .NET installation required. Launcher 0.1.2 and later check for their own updates, download and verify the new launcher, then restart automatically. If you have launcher 0.1.0 or 0.1.1, download the new launcher once to enable this.
 
 [Release notes and downloads](https://github.com/finalworld/slimoria-releases/releases/latest)
 
